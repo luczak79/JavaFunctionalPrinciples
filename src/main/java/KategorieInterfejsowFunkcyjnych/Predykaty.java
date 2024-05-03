@@ -1,4 +1,4 @@
-package KategorieInterfejsówFunkcyjnych;
+package KategorieInterfejsowFunkcyjnych;
 
 import java.util.function.Predicate;
 
